@@ -1,0 +1,3 @@
+The system shall send a confirmation email to newly registered users within one minute.
+The system shall provide an instant messaging system (chat) between two users of any kind. 
+The system shall provide a home page to band managers, displaying solo musician users profiles in a grid layout.

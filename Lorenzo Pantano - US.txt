@@ -1,3 +1,0 @@
-﻿As a drummer, I want to find a guitarist, so that I can start a band project.
-As a band manager, I want to find a drummer, so I can start the recording session.
-As a musician, I want to promote myself posting videos and photos, so that I can start playing with someone.
